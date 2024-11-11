@@ -1,5 +1,5 @@
-##👋 Hi there! Welcome to my profile. I’m Sriker Joshi, a passionate data enthusiast with growing expertise in Data Science, Machine Learning, and Computer Vision.
-##🎓 I hold a Master’s degree in Data Science from the University of Alabama at Birmingham and a Bachelor’s degree in Computer Science from CMRIT.
+##👋 **Hi there! Welcome to my profile. I’m Sriker Joshi, a passionate data enthusiast with growing expertise in Data Science, Machine Learning, and Computer Vision.**
+##🎓 **I hold a Master’s degree in Data Science from the University of Alabama at Birmingham and a Bachelor’s degree in Computer Science from CMRIT.**
 
 ### About Me: A Data Enthusiast
 
