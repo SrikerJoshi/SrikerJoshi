@@ -15,8 +15,6 @@
 - ## Want to chat with my chatbot? Click the logo [![Chatbot Badge](https://img.shields.io/badge/Chatbot-Streamlit-green?style=flat&logo=streamlit&logoColor=white&logoSize=50)](https://sriker-chatbot.streamlit.app/)
 - I have included the code for this particular chatbot I mentioned above right here([📁 Streamlit chatbot_code](https://github.com/SrikerJoshi/Projects/blob/main/AI%20based%20LLM%20Chatbots/streamlit_ai_chatbot.py)
 
-- ## My GitHub Stats
-![Sriker's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrikerJoshi&show_icons=true&theme=dark&v=1#gh-dark-mode-only)
 
 
 ---
