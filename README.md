@@ -1,11 +1,7 @@
-## Hi there 👋
+## Hi there 👋 welcome to my profile. I am excited to share my interest in the fields of GEN AI and Machine learning with you.
 
-**SrikerJoshi/SrikerJoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on GEN AI and Machine learning
-- 🌱 I’m currently learning GEN AI
+- 🔭 I’m currently working as an AI Developer intern.
+- 🌱 I’m currently learning GEN AI and working on building Interactive chatbots.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sriker-joshi/)
 
 # 🚀🖥️👩‍💻💬🤖 My Awesome Projects
